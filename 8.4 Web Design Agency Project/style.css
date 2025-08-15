@@ -8,10 +8,15 @@ body {
 }
 .main {
   flex: 1;
+  display: block;
 }
 
 h1 {
   font-size: 5rem;
+}
+
+.right-card{
+  float:right;
 }
 
 footer {
